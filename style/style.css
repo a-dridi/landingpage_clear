@@ -385,3 +385,16 @@ q {
     background-color: #f8f9fa;
     padding-bottom: 15px;
 }
+
+.site-title {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+#content {
+    margin-top: 25px;
+    margin-bottom: 100px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
