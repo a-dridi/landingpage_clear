@@ -142,6 +142,7 @@ body {
 .sign-up-button {
     height: 50px;
     width: 10em;
+	cursor: pointer;
     border-style: none;
     border-color: white;
     border-radius: 3px;
@@ -374,6 +375,7 @@ q {
 .sign-up-button-bottom:hover {
     background-color: white;
     color: black;
+	cursor: pointer;
     border: 2px solid green;
 }
 
